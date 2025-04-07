@@ -1,3 +1,4 @@
+<img src="profile.svg" alt="Fabian Jelinek Profile Card" width="100%" />
 
 
 <h3 align="left">Languages and Tools:</h3>
