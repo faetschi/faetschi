@@ -1,7 +1,7 @@
 from datetime import datetime
 
 # Replace with your birthdate
-birthdate = datetime(2002, 10, 30)
+birthdate = datetime(2001, 12, 30)
 now = datetime.utcnow()
 
 # Calculate age
