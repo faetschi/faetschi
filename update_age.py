@@ -18,7 +18,7 @@ if months < 0:
 age_str = f"{years} years, {months} months, {days} days"
 
 # File to update
-file_path = "profile_card_expanded_ascii.svg"
+file_path = "profile.svg"
 with open(file_path, "r", encoding="utf-8") as f:
     content = f.read()
 
