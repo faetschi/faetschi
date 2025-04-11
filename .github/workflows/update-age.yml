@@ -27,9 +27,6 @@ jobs:
       - name: Update age in SVG
         run: python update_age.py
 
-      - name: Run age updater
-        run: python update_age.py
-
       - name: Commit & Push if needed
         run: |
           git config --global user.name "github-actions[bot]"
