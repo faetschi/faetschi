@@ -1,7 +1,7 @@
 import re
 from datetime import datetime, timezone
 
-# Your birthdate
+# Use timezone-aware datetimes
 birthdate = datetime(2001, 12, 30, tzinfo=timezone.utc)
 now = datetime.now(timezone.utc)
 
@@ -11,39 +11,42 @@ months = now.month - birthdate.month
 days = now.day - birthdate.day
 if days < 0:
     months -= 1
-    days += 30  # rough approx.
+    days += 30  # rough approximation
 if months < 0:
     years -= 1
     months += 12
 
 age_str = f"{years} years, {months} months, {days} days"
 
-# Calculate dynamic dots to keep visual balance
-target_total_width = 62  # baseline from your example
-uptime_label_length = len("Uptime:")  # 7
-spacing = 2  # spaces around dots
-dots_needed = target_total_width - uptime_label_length - spacing - len(age_str)
-dots = "." * max(dots_needed, 0)
+# Visual layout control
+target_width = 62  # total "ideal" characters: Uptime: + dots + age
+label_len = len("Uptime:")
+padding = 2  # spaces before and after dots
+dots_len = target_width - label_len - padding - len(age_str)
+dots = "." * max(dots_len, 0)
+
+print(f"Calculated age: {age_str}")
+print(f"Using {len(dots)} dots: '{dots}'")
 
 # Load SVG
 file_path = "profile.svg"
 with open(file_path, "r", encoding="utf-8") as f:
-    content = f.read()
+    svg_content = f.read()
 
-# Replace age
-content = re.sub(
+# Update age string safely
+svg_content = re.sub(
     r'(<tspan class="value" id="age_data">)(.*?)(</tspan>)',
-    rf'\1{age_str}\3',
-    content
+    r'\1' + age_str + r'\3',
+    svg_content
 )
 
-# Replace dots
-content = re.sub(
+# Update dot string safely
+svg_content = re.sub(
     r'(<tspan class="cc" id="age_data_dots">)(.*?)(</tspan>)',
-    rf'\1 {dots} \3',
-    content
+    r'\1 ' + dots + r' \3',
+    svg_content
 )
 
-# Save updated SVG
+# Save changes
 with open(file_path, "w", encoding="utf-8") as f:
-    f.write(content)
+    f.write(svg_content)
