@@ -6,6 +6,7 @@
 |---------|-------------|
 | [git-gen-commit](https://github.com/faetschi/git-gen-commit) | AI-powered commit message generator |
 | [LLM_CodeTranslation](https://github.com/faetschi/LLM_CodeTranslation) | Automated code translation pipeline for enterprise integration |
+| [fr-clustering-pipeline](https://github.com/faetschi/fr-clustering-pipeline) | Automated pipeline for clustering and visualizing functional requirements using embeddings to derive software architecture insights |
 | [SmartSearch](https://github.com/faetschi/SmartSearch) | Backend search engine with ELK stack |
 | [FuelStationDataCollector](https://github.com/faetschi/FuelStationDataCollector) | Distributed data pipeline for fuel stations using Spring Boot and PostgreSQL |
 
@@ -49,7 +50,9 @@
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
 <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
 <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
+<a href="https://azure.microsoft.com/en-us/services/devops/">
+  <img src="assets/azuredevops.svg" width="32" style="vertical-align: middle; margin-right:6px;" />
+</a>
 <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
 <a href="https://github.com/features/actions"><img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/githubactions.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
 </p>
