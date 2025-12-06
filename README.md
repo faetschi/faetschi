@@ -4,6 +4,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [XpenseTracker](https://github.com/faetschi/XpenseTracker) | Smart personal finance application featuring automated receipt ingestion
 | [git-gen-commit](https://github.com/faetschi/git-gen-commit) | AI-powered commit message generator |
 | [LLM_CodeTranslation](https://github.com/faetschi/LLM_CodeTranslation) | Automated code translation pipeline for enterprise integration |
 | [FRS-clustering-pipeline](https://github.com/faetschi/FRS-clustering-pipeline) | Automated pipeline for clustering and visualizing functional requirements using embeddings to derive software architecture insights |
