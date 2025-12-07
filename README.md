@@ -7,7 +7,7 @@
 | [XpenseTracker](https://github.com/faetschi/XpenseTracker) | Smart personal finance application featuring automated receipt ingestion
 | [git-gen-commit](https://github.com/faetschi/git-gen-commit) | AI-powered commit message generator |
 | [LLM_CodeTranslation](https://github.com/faetschi/LLM_CodeTranslation) | Automated code translation pipeline for enterprise integration |
-| [FRS-clustering-pipeline](https://github.com/faetschi/FRS-clustering-pipeline) | Automated pipeline for clustering and visualizing functional requirements using embeddings to derive software architecture insights |
+| [FRS-clustering-pipeline](https://github.com/faetschi/FRS-clustering-pipeline) | Automated pipeline for clustering and visualizing functional requirements to derive software architecture insights |
 | [SmartSearch](https://github.com/faetschi/SmartSearch) | Backend search engine with ELK stack |
 | [FuelStationDataCollector](https://github.com/faetschi/FuelStationDataCollector) | Distributed data pipeline for fuel stations using Spring Boot and PostgreSQL |
 
