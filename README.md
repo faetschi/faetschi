@@ -30,11 +30,10 @@
 <p align="left">
 <b>AI / ML / LLM / Automation</b><br/><br/>
 <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
+<a href="https://vllm.ai/"><img src=".assets/vllm-color.svg" width="60" style="vertical-align: middle; margin-right:6px;" /></a>
 <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://ollama.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://qdrant.io/"><img src="./assets/qdrant.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
 <a href="https://www.langchain.com/"><img src="./assets/langchain.svg" height="56" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
 </p>
 
 <p align="left">
