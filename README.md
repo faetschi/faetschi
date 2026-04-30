@@ -4,7 +4,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [XpenseTracker](https://github.com/faetschi/XpenseTracker) | Smart personal finance application, deployed securely on Raspberry PI, featuring automated receipt ingestion
+| [XpenseTracker](https://github.com/faetschi/XpenseTracker) | Smart personal finance application, deployed securely on Raspberry PI, with automated receipt ingestion and banking statement imports
 | [git-gen-commit](https://github.com/faetschi/git-gen-commit) | AI-powered commit message generator |
 | [LLM_CodeTranslation](https://github.com/faetschi/LLM_CodeTranslation) | Automated code translation pipeline for enterprise integration |
 | [FRS-clustering-pipeline](https://github.com/faetschi/FRS-clustering-pipeline) | Automated pipeline for clustering and visualizing functional requirements to derive software architecture insights |
