@@ -1,61 +1,45 @@
- <img src="https://faetschi.github.io/faetschi/profile.svg" alt="Fabian Jelinek Profile Card" width="100%" />
+<img src="https://faetschi.github.io/faetschi/profile.svg" alt="Fabian Jelinek Profile Card" width="100%" />
 
-## Recent Projects
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/@fabian-jelinek](https://www.linkedin.com/in/fabian-jelinek/))
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nanobeastCSGO)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@faetschii)
 
-| Project | Description |
-|---------|-------------|
-| [XpenseTracker](https://github.com/faetschi/XpenseTracker) | Smart personal finance application, deployed securely on Raspberry PI, with automated receipt ingestion and banking statement imports
-| [git-gen-commit](https://github.com/faetschi/git-gen-commit) | AI-powered commit message generator |
-| [LLM_CodeTranslation](https://github.com/faetschi/LLM_CodeTranslation) | Automated code translation pipeline for enterprise integration |
-| [FRS-clustering-pipeline](https://github.com/faetschi/FRS-clustering-pipeline) | Automated pipeline for clustering and visualizing functional requirements to derive software architecture insights |
-| [SmartSearch](https://github.com/faetschi/SmartSearch) | Backend search engine with ELK stack |
-| [FuelStationDataCollector](https://github.com/faetschi/FuelStationDataCollector) | Distributed data pipeline for fuel stations using Spring Boot and PostgreSQL |
+## 🛠️ Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[XpenseTracker](https://github.com/faetschi/XpenseTracker)** | Smart finance tracking with RPi receipt ingestion | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **[FRS-Clustering](https://github.com/faetschi/FRS-clustering-pipeline)** | Semantic requirement clustering for architecture | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-009688?style=flat-square) |
+| **[git-gen-commit](https://github.com/faetschi/git-gen-commit)** | AI-powered automated commit message generator | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-53C1DE?style=flat-square&logo=powershell&logoColor=white) ![SGLang](https://img.shields.io/badge/-SGLang-blue?style=flat-square&logo=speedtest&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **[CodeTranslation](https://github.com/faetschi/LLM_CodeTranslation)** | Enterprise-grade automated code migration | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![DevOps](https://img.shields.io/badge/-CI/CD-24292e?style=flat-square) ![Ollama](https://img.shields.io/badge/-Ollama-white?style=flat-square&logo=ollama&logoColor=black) |
+| **[SmartSearch](https://github.com/faetschi/SmartSearch)** | High-performance code-search engine backend | ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **[FuelCollector](https://github.com/faetschi/FuelStationDataCollector)** | Distributed data pipeline for fuel tracking | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Opencode](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=gnu-bash&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<h3 align="left">Languages & Tools:</h3>
+### 🤖 AI Inference & Orchestration
+![vLLM](https://img.shields.io/badge/-vLLM-orange?style=flat-square)
+![SGLang](https://img.shields.io/badge/-SGLang-blue?style=flat-square&logo=speedtest&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<p align="left">
-<b>Backend / Programming</b><br/><br/>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.cppreference.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-</p>
-
-<p align="left">
-<b>AI / ML / LLM / Automation</b><br/><br/>
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://vllm.ai/"><img src=".assets/vllm-color.svg" width="60" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.langchain.com/"><img src="./assets/langchain.svg" height="56" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-</p>
-
-<p align="left">
-<b>Database / Data / Messaging</b><br/><br/>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.elastic.co/"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.rabbitmq.com/"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-</p>
-
-<p align="left">
-<b>DevOps / Cloud / Deployment</b><br/><br/>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://azure.microsoft.com/en-us/services/devops/">
-  <img src="assets/azuredevops.svg" width="32" style="vertical-align: middle; margin-right:6px;" />
-</a>
-<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-<a href="https://github.com/features/actions"><img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/githubactions.svg" width="32" style="vertical-align: middle; margin-right:6px;" /></a>
-</p>
+### ☁️ Infrastructure & Databases
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 
 
