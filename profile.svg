@@ -43,24 +43,26 @@ text, tspan {white-space: pre;}
 <tspan x="5" y="490">   -####.+    +.....  .      -   .+###.</tspan>
 </text>
 <text fill="#c9d1d9" x="390" y="30">
-<tspan x="390" y="30">——————— Fabian Jelinek — Software &amp; AI Engineer</tspan> —————————————————————————————————————
+<tspan x="390" y="30">——————— Fabian Jelinek — Software &amp; AI Engineer</tspan> ————————————
 <tspan class="cc" x="390" y="50">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11</tspan>
 <tspan class="cc" x="390" y="70">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">24 years, 4 months, 3 days</tspan>
 <tspan class="cc" x="390" y="90">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">OeKB AG</tspan>
 <tspan class="cc" x="390" y="110">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Software Engineer</tspan>
-<tspan class="cc" x="390" y="130">. </tspan><tspan class="key">Role.Info</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Building backend &amp; AI applications
+<tspan class="cc" x="390" y="130">. </tspan><tspan class="key">Role.Expertise</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Scalable Systems &amp; Data Engineering
 </tspan>
 <tspan class="cc" x="390" y="150">. </tspan>
-<tspan class="cc" x="390" y="170">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">German (native), English</tspan>
-<tspan class="cc" x="390" y="190">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, Java, JS/TS, SQL, C++</tspan>
-<tspan class="cc" x="390" y="210">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI_and_ML</tspan>:<tspan class="cc"> . </tspan><tspan class="value">vLLM/SGLang, LangChain, ELK, Spring</tspan>
-<tspan class="cc" x="390" y="230">. </tspan>
-<tspan class="cc" x="390" y="250">. </tspan><tspan class="key">Hobbies</tspan><tspan class="key"/>:<tspan class="cc"> ................... </tspan><tspan class="value">Video &amp; Photography, E-Sports</tspan>
-<tspan class="cc" x="390" y="270">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">LLM experiments, software automation</tspan>
-<tspan x="390" y="310">- Contact</tspan> ——————————————————————————————————————————————————
-<tspan class="cc" x="390" y="330">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">fabian.jelinek@oekb.at</tspan>
-<tspan class="cc" x="390" y="350">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">fabian.jelinek@gmail.com</tspan>
-<tspan class="cc" x="390" y="370">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">@fabian-jelinek</tspan>
-<tspan class="cc" x="390" y="390">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">@faetschi</tspan>
+<tspan x="390" y="170">——————— Tech Stack —————————————————————————————————————————</tspan>
+<tspan class="cc" x="390" y="190">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">German (native), English</tspan>
+<tspan class="cc" x="390" y="210">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Python, Java, JS/TS, SQL, C#</tspan>
+<tspan class="cc" x="390" y="230">. </tspan><tspan class="key">Languages.AI</tspan>:<tspan class="cc"> ..................- </tspan><tspan class="value">vLLM, SGLang, TensorFlow</tspan>
+<tspan class="cc" x="390" y="250">. </tspan><tspan class="key">Languages.Infra</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Docker, K8s, Azure, PostgreSQL, Jenkins</tspan>
+<tspan class="cc" x="390" y="270">. </tspan>
+<tspan class="cc" x="390" y="290">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Video &amp; Photography, E-Sports</tspan>
+<tspan class="cc" x="390" y="310">. </tspan><tspan class="key">Current</tspan>.<tspan class="key">Focus</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Optimizing inference for self-hosted LLMs</tspan>
+<tspan x="390" y="330">——————— Contact ————————————————————————————————————————————</tspan>
+<tspan class="cc" x="390" y="350">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">fabian.jelinek@oekb.at</tspan>
+<tspan class="cc" x="390" y="370">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">fabian.jelinek@gmail.com</tspan>
+<tspan class="cc" x="390" y="390">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">@fabian-jelinek</tspan>
+<tspan class="cc" x="390" y="410">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">@faetschi</tspan>
 </text>
 </svg>
