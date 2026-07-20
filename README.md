@@ -1,6 +1,6 @@
 <img src="https://faetschi.github.io/faetschi/profile.svg" alt="Fabian Jelinek Profile Card" width="100%" />
 
-## 🛠️ Featured Projects
+# Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
