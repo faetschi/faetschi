@@ -41,6 +41,9 @@ age_tag = soup.find("tspan", {"id": "age_data"})
 if age_tag:
     age_tag.string = age_str
 
+# Browsers need the SVG namespace to render this XML file as an image.
+soup.find("svg")["xmlns"] = "http://www.w3.org/2000/svg"
+
 with open("profile.svg", "w", encoding="utf-8") as f:
     f.write(str(soup))
 
